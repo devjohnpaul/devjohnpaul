@@ -1,45 +1,38 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Paul Labanon
 =========================================================================================================================================
 
-Junior Web Developer
+Aspiring Software Developer
 --------------------
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My Portfolio](http://j0hnp4ul.github.io/)
 * ✉️  You can contact me at [johnpaullabano29@gmail.com](mailto:johnpaullabano29@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Web Development, Linux, Networking and Cyber Security
 * 🤝  I'm open to collaborating on interested projects
 
+[![](https://visitcount.itsvg.in/api?id=j0hnp4ul&icon=5&color=1)](https://visitcount.itsvg.in)
 <a href="https://www.github.com/j0hnp4ul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/j0hnp4ul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![Twitter Follow]https://img.shields.io/twitter/follow/j0hnp4ul0x01?color=blue&logo=twitter&style=for-the-badge
 
-### Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-paul-labanon-67778a175) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/j0hnp4ul0x01?t=823UlLeLCiblpVuiAvEnAA&s=09) 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=j0hnp4ul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=j0hnp4ul&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnp4ul&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=j0hnp4ul&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-### Socials
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<p align="left"> <a href="https://www.facebook.com/itsmejohnpaullabanon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/j0hnp4ul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC-4RNQX3-lxio-IMSu56T4Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/j0hnp4ul"><img src="https://github-readme-stats.vercel.app/api?username=j0hnp4ul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="j0hnp4ul's GitHub stats" /></a>
-
-<a href="http://www.github.com/j0hnp4ul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnp4ul&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/j0hnp4ul"><img src="https://activity-graph.herokuapp.com/graph?username=j0hnp4ul&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/j0hnp4ul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnp4ul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/JohnPaulLabanon) 
