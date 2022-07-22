@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Paul Labanon
 =========================================================================================================================================
 
-Aspiring Network Engineer
+Aspiring Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Philippines
@@ -13,7 +13,7 @@ Aspiring Network Engineer
 
 <a href="https://www.github.com/j0hnp4ul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/j0hnp4ul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![Twitter Follow](https://img.shields.io/twitter/follow/j0hnp4ul0x01?color=blue&logo=twitter&logoColor=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/dev_johnpaul?color=blue&logo=twitter&logoColor=twitter&style=for-the-badge)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-paul-labanon-67778a175) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/j0hnp4ul0x01?t=823UlLeLCiblpVuiAvEnAA&s=09) 
 
