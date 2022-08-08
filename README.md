@@ -11,7 +11,7 @@ Aspiring Full Stack Developer
 * 🤝  I'm open to collaborating on interested projects
 
 
-<a href="https://www.github.com/j0hnp4ul" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/devjohnpaul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/j0hnp4ul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/dev_johnpaul?color=blue&logo=twitter&logoColor=twitter&style=for-the-badge)
 ## 🌐 Socials:
@@ -21,12 +21,12 @@ src="https://img.shields.io/github/followers/j0hnp4ul?logo=github&style=for-the-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=j0hnp4ul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=j0hnp4ul&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnp4ul&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=devjohnpaul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devjohnpaul&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjohnpaul&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=j0hnp4ul&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=devjohnpaul&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
