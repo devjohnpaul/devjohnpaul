@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am John Paul Labanon
 =========================================================================================================================================
 
-Aspiring Full Stack Web Developer
+Aspiring Front-End Developer
 --------------------
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My Portfolio](http://devjohnpaul.github.io/)
 * ✉️  You can contact me at [devjohnpaull@gmail.com](mailto:johnpaullabano29@gmail.com)
-* 🧠  I'm currently learning Web Development, Linux, Networking and Cyber Security
+* 🧠  I'm currently learning Web Development
 * 🤝  I'm open to collaborating on interested projects
 
 
